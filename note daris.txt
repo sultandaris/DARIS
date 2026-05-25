@@ -21,7 +21,14 @@ founding:
 -scenario LDL :
 
 ISU:
--gw bingung definisi MLL apa sih
+-gw bingung definisi MLL apa sih, yang gw lakuin tu single label apa multiple? 
 -di ldl secara teknis tu berarti prediksi multiple class dong?
 -harusnya multi class apa ga? atau dia cumin 
+- ni paper ngomong
+
+1. "Browser-Based Detection of Harmful Content with Deep Learning Model"
+
+2. "Two-way Multi-Label Loss"
+
+3. "A Multi-Label Toxic Comment Classification Framework using under Sampling and Deep Learning Models"
 
