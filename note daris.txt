@@ -1,0 +1,22 @@
+HIDDEN
+- GeLU
+
+OUTPUT
+aktivasi:
+- softmax, argmax = ldl
+- sigmoid = mll
+
+objektif:
+- ldl = MAE
+- mll = BCE
+
+biner dirasa kurang, tapi berarti biner dalam klasifikasi itu juga salah.
+lebih tepatnya fungsi aktivasi dan objektif dalam training yang kurang tepat.
+
+missal 60:40 versus sama aggregat 1, beda kan? kita tahu kalo 60 itu mayoritas, iya bener tapi beda sama aggregat 1, 1 ya 1, kita atau lebih tepatnya model gabisa tahu 
+
+founding:
+- hidden layer indobert : gelu ( 2 scenario, ya pake gelu ) 
+- scenario MLL : output layer, ini pake apa?
+- scenario LDL :
+
