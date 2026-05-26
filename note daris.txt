@@ -17,8 +17,8 @@ missal 60:40 versus sama aggregat 1, beda kan? kita tahu kalo 60 itu mayoritas, 
 
 founding:
 -hidden layer indobert : gelu ( 2 scenario, ya pake gelu ) 
--scenario MLL : output layer, ini pake apa?
--scenario LDL :
+-scenario MLL : output layer, ini pake apa? sigmoid sama cross entropy, jurnal ada di bawah.
+-scenario LDL : geng 2016 itu ngomongin loss function aja pake MAE. aktivasi belum kecover
 
 ISU:
 -gw bingung definisi MLL apa sih, yang gw lakuin tu single label apa multiple? 
@@ -27,8 +27,6 @@ ISU:
 - ni paper ngomong
 
 1. "Browser-Based Detection of Harmful Content with Deep Learning Model"
-
 2. "Two-way Multi-Label Loss"
-
 3. "A Multi-Label Toxic Comment Classification Framework using under Sampling and Deep Learning Models"
 
