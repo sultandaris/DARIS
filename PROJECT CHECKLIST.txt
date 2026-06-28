@@ -1,0 +1,5 @@
+TO DO LIST : 
+- rapikan output data ( )
+- kerjain implementasi dan evaluasi model ( )
+
+isi dengan X di ( ) kalo udah!
