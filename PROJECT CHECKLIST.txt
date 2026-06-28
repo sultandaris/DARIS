@@ -1,5 +1,11 @@
 TO DO LIST : 
 - rapikan output data ( )
+- dalam distribusi data setelah RUS, coba lu kasi juga 
+  distribusi label lawan juga di RUS tiap label ( )
 - kerjain implementasi dan evaluasi model ( )
+
+ISU : 
+- njelasin kalo RUS di tiap label itu valid karena kita fokus ke 
+masing masing tugas
 
 isi dengan X di ( ) kalo udah!
