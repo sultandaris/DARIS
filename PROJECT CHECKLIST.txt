@@ -1,11 +1,15 @@
 TO DO LIST : 
-- rapikan output data ( )
+- rapikan output data, pake bar or pie chart (x) on work 
+  - rapikan lagi, jan pake bar chart semua, buat elegan aja dah ( )
 - dalam distribusi data setelah RUS, coba lu kasi juga 
-  distribusi label lawan juga di RUS tiap label ( ) on work
+  distribusi label lawan juga di RUS tiap label (x) 
 - kerjain implementasi dan evaluasi model ( )
+- ttd manuskrip sm print letter approval ( )
+  - ambil di fotkop besok ( )
 
-ISU : 
+Isu: 
 - njelasin kalo RUS di tiap label itu valid karena kita fokus ke 
 masing masing tugas
 
+Notes:
 isi dengan X di ( ) kalo udah!
