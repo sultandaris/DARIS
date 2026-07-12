@@ -3,9 +3,9 @@ TO DO LIST :
   - rapikan lagi, jan pake bar chart semua, buat elegan aja dah ( )
 - dalam distribusi data setelah RUS, coba lu kasi juga 
   distribusi label lawan juga di RUS tiap label (x) 
-- kerjain implementasi dan evaluasi model ( )
+- kerjain implementasi dan evaluasi model (x)
 - ttd manuskrip sm print letter approval ( )
-  - ambil di fotkop besok ( )
+  - ambil di fotkop besok (x)
 
 Isu: 
 - njelasin kalo RUS di tiap label itu valid karena kita fokus ke 
