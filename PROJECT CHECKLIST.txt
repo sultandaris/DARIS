@@ -6,7 +6,7 @@ TO DO LIST :
 - kerjain implementasi dan evaluasi model (x)
 - ttd manuskrip sm print letter approval ( )
   - ambil di fotkop besok (x)
-
+/Users/endah/DARIS/dataset.csv
 - print lagi  ( ) 
 - seminar jam 9 jumat besok ( )
 - apakah weight mempengaruhi ???
